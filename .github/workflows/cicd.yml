@@ -2,7 +2,7 @@ name: python script run
 
 on:
     branches:
-        - master:
+        - master
 
 jobs:
     run-pandas-script:
